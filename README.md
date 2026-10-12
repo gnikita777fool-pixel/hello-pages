@@ -224,3 +224,5 @@ git add .
 git commit -m "feat: update content"
 git push origin main
 ```
+
+<img width="2557" height="1262" alt="image" src="https://github.com/user-attachments/assets/0d4b1196-6f94-4ba2-a336-4be137e1718f" />
